@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'rake'
-gem 'jekyll'
+gem 'jekyll', '>= 4.3.4'
 
 gem "webrick", "~> 1.7"
